@@ -1,4 +1,4 @@
-# Canteen Connect Web
+# Canteen Connect 
 
 Canteen Connect is a full-stack web application designed to streamline canteen operations. It provides a seamless experience for both administrators managing the canteen and students placing orders. The frontend is built with React and Vite, and the backend is powered by Node.js, Express, and MongoDB.
 
